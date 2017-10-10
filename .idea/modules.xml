@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lyyzoo-gpss.iml" filepath="$PROJECT_DIR$/lyyzoo-gpss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyyzoo-gpss-base/lyyzoo-gpss-base.iml" filepath="$PROJECT_DIR$/lyyzoo-gpss-base/lyyzoo-gpss-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyyzoo-gpss-web/lyyzoo-gpss-web.iml" filepath="$PROJECT_DIR$/lyyzoo-gpss-web/lyyzoo-gpss-web.iml" />
+    </modules>
+  </component>
+</project>

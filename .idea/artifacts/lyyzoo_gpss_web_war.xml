@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lyyzoo-gpss-web:war">
+    <output-path>$PROJECT_DIR$/lyyzoo-gpss-web/target</output-path>
+    <root id="archive" name="gpss.war">
+      <element id="artifact" artifact-name="lyyzoo-gpss-web:war exploded" />
+    </root>
+  </artifact>
+</component>
